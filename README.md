@@ -40,9 +40,24 @@ I also created a file which would upvote all mentions of biden and harris and do
 
 ![Up/Downvote Counts](https://github.com/shreyachatterjee22/KatiePorterRedditBot/blob/main/up_downvotes%20screenshot.JPG)
 
-The first number represents how many comments were upvoted
-The second number represents how many comments were downvoted
-The third number represents how many submissions were upvoted
-The fourth number represents how many submissions were downvoted
+The first number represents how many comments were upvoted <br>
+The second number represents how many comments were downvoted <br>
+The third number represents how many submissions were upvoted <br>
+The fourth number represents how many submissions were downvoted <br>
 
 I ran this file until it hit over 100 submission votes and 500 comment votes in the BotTown2 Subreddit. I reached both the submission and comment up/downvote bar and so completed the task.
+
+## Calculating Points
+
+I completed the following tasks: 
+
+Completing bot.py tasks = 18 points <br>
+Completing github repo = 2 points <br>
+Getting at least 100 valid comments posted = 2 points <br>
+Getting at least 500 valid comments posted = 2 points <br>
+Getting at least 1000 valid comments posted = 2 points <br>
+Create an "army" of 5 bots w/500 valid comments = 2 points <br>
+Up/Downvote comment or submission for candidates = 2 points <br>
+Up/Downvote using TextBlob sentiment analysis = 2 points <br>
+
+**Total Points Earned = 32 points**
