@@ -28,7 +28,7 @@ bot5.py gives this output:
 ## Upvotes and Downvotes
 I also created a file which would upvote all mentions of biden and harris and downvote all mentions of trump and musk. Here is the output of running that file: 
 
-![Up/Downvote Counts](https://github.com/shreyachatterjee22/KatiePorterRedditBot/blob/main/up_downvotes%20screenshots.JPG)
+![Up/Downvote Counts](https://github.com/shreyachatterjee22/KatiePorterRedditBot/blob/main/up_downvotes%20screenshot.JPG)
 
 The first number represents how many comments were upvoted
 The second number represents how many comments were downvoted
