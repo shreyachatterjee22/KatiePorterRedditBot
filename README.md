@@ -10,18 +10,16 @@ This is my favorite interaction because its just so random. None of the comments
 ## My Bot Outputs
 Below is the output from running my bot1.py file
 
-'''
-len(comments)= 1000
-len(top_level_comments)= 227
-len(replies)= 773
-len(valid_top_level_comments)= 227
-len(not_self_replies)= 773
-len(valid_replies)= 773
-========================================
-valid_comments= 1000
-========================================
-NOTE: the number valid_comments is what will be used to determine your extra credit
-'''
+        len(comments)= 1000
+        len(top_level_comments)= 227
+        len(replies)= 773
+        len(valid_top_level_comments)= 227
+        len(not_self_replies)= 773
+        len(valid_replies)= 773
+        ========================================
+        valid_comments= 1000
+        ========================================
+        NOTE: the number valid_comments is what will be used to determine your extra credit
 
 I also ran 4 additional bots. Here are the outputs for those as well
 
