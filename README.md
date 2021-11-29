@@ -8,14 +8,14 @@ I created five different bots to spread propaganda about my own district's (CA45
 This is my favorite interaction because its just so random. None of the comments are remotely related to each other. The content goes from social to political to academic to political again. 
 
 ## My Bot Outputs
-Below is the output from running my bot1.py file
+Below is the [output](https://github.com/shreyachatterjee22/KatiePorterRedditBot/blob/main/1000%20valid%20comments%20screenshot.JPG) from running my bot1.py file
 
         len(comments)= 1000
-        len(top_level_comments)= 227
-        len(replies)= 773
-        len(valid_top_level_comments)= 227
-        len(not_self_replies)= 773
-        len(valid_replies)= 773
+        len(top_level_comments)= 240
+        len(replies)= 760
+        len(valid_top_level_comments)= 240
+        len(not_self_replies)= 760
+        len(valid_replies)= 760
         ========================================
         valid_comments= 1000
         ========================================
