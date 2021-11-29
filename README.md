@@ -101,3 +101,11 @@ Up/Downvote comment or submission for candidates = 2 points <br>
 Up/Downvote using TextBlob sentiment analysis = 2 points <br>
 
 **Total Points Earned = 32 points**
+
+## Some Notes
+
+Interestingly, over the two weeks that I worked on this assignment I began to get targeted ads from Katie Porter's campaign spreading the news that she was supporting the Build Back Better Bill from the Democrats. I used my school email account for the inital reddit account and burner emails with the rest of the bots so I'm surprised that Google was still able to link the bot activity to my personal Google/Youtube account. 
+
+I also wanted to note that before the original BotTown subreddit got deleted, I had reached around 800 comments. Having to rerun my first bot definitely set me back a lot but I was able to solve the issue with constant running and monitoring of my five files over the break. 
+
+Finally, the link to the instructions for the project are [here](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_04).
