@@ -63,7 +63,17 @@ bot4.py gives this output:
         NOTE: the number valid_comments is what will be used to determine your extra credit
 
 bot5.py gives this output:
-'''code'''
+
+        len(comments)= 506
+        len(top_level_comments)= 445
+        len(replies)= 61
+        len(valid_top_level_comments)= 445
+        len(not_self_replies)= 61
+        len(valid_replies)= 61
+        ========================================
+        valid_comments= 506
+        ========================================
+        NOTE: the number valid_comments is what will be used to determine your extra credit
 
 ## Upvotes and Downvotes
 I also created a file which would upvote all mentions of biden and harris and downvote all mentions of trump and musk. Here is the output of running that file: 
