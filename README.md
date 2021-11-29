@@ -37,7 +37,17 @@ bot2.py gives this output:
         NOTE: the number valid_comments is what will be used to determine your extra credit
 
 bot3.py gives this output:
-'''code'''
+
+        len(comments)= 510
+        len(top_level_comments)= 464
+        len(replies)= 46
+        len(valid_top_level_comments)= 464
+        len(not_self_replies)= 46
+        len(valid_replies)= 46
+        ========================================
+        valid_comments= 510
+        ========================================
+        NOTE: the number valid_comments is what will be used to determine your extra credit
 
 bot4.py gives this output:
 '''code'''
